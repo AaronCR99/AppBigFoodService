@@ -1,0 +1,36 @@
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\DAL\bin\Debug\DAL.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\DAL\bin\Debug\DAL.pdb
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\DAL\bin\Debug\BLL.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\DAL\bin\Debug\BLL.pdb
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\DAL\obj\Debug\DAL.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\DAL\obj\Debug\DAL.pdb
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\DAL\bin\Debug\itextsharp.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\DAL\bin\Debug\itextsharp.xml
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\DAL\bin\Debug\DAL.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\DAL\bin\Debug\DAL.pdb
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\DAL\bin\Debug\BLL.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\DAL\bin\Debug\itextsharp.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\DAL\bin\Debug\BLL.pdb
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\DAL\bin\Debug\itextsharp.xml
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\DAL\obj\Debug\DAL.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\DAL\obj\Debug\DAL.pdb
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\DAL\bin\Debug\DAL.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\DAL\bin\Debug\DAL.pdb
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\DAL\bin\Debug\BLL.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\DAL\bin\Debug\BouncyCastle.Crypto.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\DAL\bin\Debug\itextsharp.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\DAL\bin\Debug\BLL.pdb
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\DAL\bin\Debug\itextsharp.xml
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\DAL\obj\Debug\DAL.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,303 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7E599125-8F4C-42CC-B3F7-5FCF726BACC6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AppBigFoodServices</RootNamespace>
+    <AssemblyName>AppBigFoodServices</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Core, Version=2.5.1.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <HintPath>..\packages\Castle.Core.2.5.2\lib\NET35\Castle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Castle.Services.Transaction, Version=3.0.202.2202, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
+      <HintPath>..\packages\Castle.Services.Transaction.3.0.202.2202\lib\net40\Castle.Services.Transaction.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BtnCircular.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FrmAgregarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAgregarCliente.Designer.cs">
+      <DependentUpon>FrmAgregarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCuentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCuentas.Designer.cs">
+      <DependentUpon>FrmCuentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmFacturar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmFacturar.Designer.cs">
+      <DependentUpon>FrmFacturar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNuevoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNuevoProducto.Designer.cs">
+      <DependentUpon>FrmNuevoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNuevoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNuevoUsuario.Designer.cs">
+      <DependentUpon>FrmNuevoUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.Designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListaClientes.Designer.cs">
+      <DependentUpon>FrmListaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface1.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAgregarCliente.resx">
+      <DependentUpon>FrmAgregarCliente.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCuentas.resx">
+      <DependentUpon>FrmCuentas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmFacturar.resx">
+      <DependentUpon>FrmFacturar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListaClientes.resx">
+      <DependentUpon>FrmListaClientes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNuevoProducto.resx">
+      <DependentUpon>FrmNuevoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNuevoUsuario.resx">
+      <DependentUpon>FrmNuevoUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PDV.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boss3_118010.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashier_icon-icons.com_53629.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agent_29165.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_icon-icons.com_66546.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_locate_find_icon-icons.com_67287.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\log_logout_door_1563.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete-80_icon-icons.com_57340.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_remove_close_icon_181533.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UserAdd_40960.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_icon-icons.com_665461.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-manage_114453.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User_Manual-80_icon-icons.com_57245 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_find_magnifyng_glass_person_people_user_icon_179088.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search_magnifyng_glass_icon_178876.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cashier2_117951.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus_insert_add_new_icon_181537.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1490793813-user-interface20_82328.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Package-add_25346.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_inventory_maintenance_product_box_boxes_2326.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users_21945.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moneygraph_118079.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business-color_money-coins_icon-icons.com_53446.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stats_profit_icon-icons.com_54423.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bootloader_users_person_people_6080.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486564179-finance-saving_81499.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\metrophone_metr_11263.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1486564172-finance-loan-money_81492.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{028a0b5d-78b6-4670-a10f-ae2c4088df49}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{e2fa1ec8-e666-4eb9-a3e0-ac54b4d5f3fe}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microsoft_excel_macos_bigsur_icon_189980.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\microsoft_word_macos_bigsur_icon_189948.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business-color_calculator_icon-icons.com_53466.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tools_icon-icons.com_66544.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2799204-management_99783.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_settings_tools_22597.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_application_addmale_useradd_insert_add_user_client_2312.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bootloader_users_person_people_60801.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addusergroup_1251.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\document_delete_256_icon-icons.com_75995.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pay_cash_payment_money_dollar_bill_icon_143267.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mastercard_icon-icons.com_60554.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Visa_icon-icons.com_60549.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment_app_finger_icon_143258.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

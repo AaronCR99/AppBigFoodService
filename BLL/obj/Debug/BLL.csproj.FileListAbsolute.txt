@@ -1,0 +1,30 @@
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\BLL\bin\Debug\BLL.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\BLL\bin\Debug\BLL.pdb
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\BLL\obj\Debug\BLL.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\BLL\obj\Debug\BLL.pdb
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\BLL\bin\Debug\itextsharp.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\BLL\bin\Debug\itextsharp.xml
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\BLL\bin\Debug\BLL.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\BLL\bin\Debug\BLL.pdb
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\BLL\bin\Debug\itextsharp.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\BLL\bin\Debug\itextsharp.xml
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\BLL\obj\Debug\BLL.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\BLL\obj\Debug\BLL.pdb
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\BLL\bin\Debug\BLL.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\BLL\bin\Debug\BLL.pdb
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\BLL\bin\Debug\BouncyCastle.Crypto.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\BLL\bin\Debug\itextsharp.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\BLL\bin\Debug\itextsharp.xml
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\BLL\obj\Debug\BLL.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\BLL\obj\Debug\BLL.pdb

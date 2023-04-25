@@ -1,0 +1,88 @@
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\AppBigFoodServices.exe
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\AppBigFoodServices.pdb
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csproj.AssemblyReference.cache
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmPrincipal.resources
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.Properties.Resources.resources
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csproj.GenerateResource.cache
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csproj.CoreCompileInputs.cache
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.exe
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.pdb
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmListaClientes.resources
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmFacturar.resources
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmAgregarCliente.resources
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmNuevoProducto.resources
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmCuentas.resources
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\AppBigFoodServices.exe.config
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\BLL.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\DAL.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\BLL.pdb
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\DAL.pdb
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csproj.CopyComplete
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmLogin.resources
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmNuevoUsuario.resources
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\Castle.Core.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\Castle.Services.Transaction.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\Castle.Core.xml
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\Castle.Services.Transaction.xml
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\itextsharp.dll
+C:\Users\braya\OneDrive\Escritorio\Proyecto_Final_Lenguajes\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\itextsharp.xml
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\AppBigFoodServices.exe.config
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\AppBigFoodServices.exe
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\AppBigFoodServices.pdb
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\BLL.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\Castle.Core.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\Castle.Services.Transaction.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\DAL.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\itextsharp.dll
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\BLL.pdb
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\DAL.pdb
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\Castle.Core.xml
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\Castle.Services.Transaction.xml
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\bin\Debug\itextsharp.xml
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmAgregarCliente.resources
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmCuentas.resources
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmFacturar.resources
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmListaClientes.resources
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmLogin.resources
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmNuevoProducto.resources
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmNuevoUsuario.resources
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmPrincipal.resources
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.Properties.Resources.resources
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csproj.CopyComplete
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.exe
+C:\Users\Aaron\Desktop\App\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.pdb
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\AppBigFoodServices.exe.config
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\AppBigFoodServices.exe
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\AppBigFoodServices.pdb
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\BLL.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\BouncyCastle.Crypto.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\Castle.Core.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\Castle.Services.Transaction.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\DAL.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\itextsharp.dll
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\BLL.pdb
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\DAL.pdb
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\Castle.Core.xml
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\Castle.Services.Transaction.xml
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\bin\Debug\itextsharp.xml
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csproj.AssemblyReference.cache
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csproj.SuggestedBindingRedirects.cache
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmAgregarCliente.resources
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmCuentas.resources
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmFacturar.resources
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmListaClientes.resources
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmLogin.resources
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmNuevoProducto.resources
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmNuevoUsuario.resources
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.FrmPrincipal.resources
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.Properties.Resources.resources
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csproj.GenerateResource.cache
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csproj.CoreCompileInputs.cache
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.csproj.CopyComplete
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.exe
+D:\UCR I Semestre 2021\IF4101 LENGUAJES PARA APLICACIONES COMERCIALES\Proyecto Desktop\AppBigFoodServices\AppBigFoodServices\obj\Debug\AppBigFoodServices.pdb
